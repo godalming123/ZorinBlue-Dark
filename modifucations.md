@@ -24,5 +24,7 @@ _credits to (The Zorin Os Theme)[] as that is the theme this is based upon but s
 ![After](./)
 
 ### To-do
+- **THEME EVERYTHING IE GTK2 AND XFWM4**
+
 - remove slight border from tooltips in the dash.
 ![Screenshot](./)
