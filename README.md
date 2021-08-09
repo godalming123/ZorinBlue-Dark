@@ -1,7 +1,7 @@
 # Modified zorin theme
 
 Credits to [The Zorin Os Theme](https://github.com/ZorinOS/zorin-desktop-themes) as I base my theme upon that software under the GNU General Public License v2.0 (refer to the LICENSE file in this repo).
-If anyone thinks I am not following that license please make an issue I am not a loyer (just a coder 😁️) and would like to aviod legal troubles.
+If anyone thinks I am not following that license please make an issue I am not a lawyer (just a coder 😁️) and would like to aviod legal troubles.
 
 ## Todo
 
